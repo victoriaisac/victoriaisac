@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Victoria Isac. Soy estudiante de programación en desarrollo fullstack, con un fuerte interés en el desarrollo backend.</p>
+<p align="left">Mi nombre es Victoria Isac. Soy estudiante de programación en desarrollo fullstack, con un fuerte interés en el desarrollo Frontend.</p>
 
 ###
 
